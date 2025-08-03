@@ -1,21 +1,32 @@
-💻 Jair Brecher Junior | Programming Student & SAP Enthusiast
+## 💻 Jair Brecher Junior | Estudante de Programação focado em IA & Cloud  
+**Programming Student focused on AI & Cloud**
 
-Bem-vindo ao meu GitHub! Sou um estudante de Análise e Desenvolvimento de Sistemas com foco em programação e desenvolvimento em SAP. Estou construindo experiência prática em ABAP, SAP BTP e integração de sistemas, e uso este espaço para compartilhar meus projetos e aprender continuamente com a comunidade de código aberto.
+Olá! Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e sempre buscando aprender mais sobre inteligência artificial, computação em nuvem e desenvolvimento de soluções reais.  
 
-🚀 Sobre Mim
-🎓 Estudante de programação com especialização em ferramentas SAP.
-💼 Atualmente assistente de PCP, mas com ambições para uma carreira em desenvolvimento SAP.
-📈 Interesses: ABAP, Integração de Sistemas, e SAP HCM.
-🌎 Procurando conectar-me com outros desenvolvedores e aprender continuamente com a comunidade.
-🔧 Tecnologias e Ferramentas
-Linguagens: ABAP, Python, JavaScript
-Ferramentas SAP: SAP BTP, SAP HANA, SAP Integration Suite
-Outras Tecnologias: Git, GitHub, SQL, SAP Analytics
+Hi there! I'm a Systems Development student from Brazil, diving into Artificial Intelligence, Cloud Computing and real-world problem solving through code.
 
-💡 Vamos Colaborar!
-Estou aberto a colaborar em projetos de integração SAP, automação em ABAP e ferramentas de análise de dados. Se você estiver interessado em trabalhar em algo junto ou tem dicas para iniciantes em SAP, me avise!
+---
 
-📫 Entre em Contato
-LinkedIn: (https://www.linkedin.com/in/jair-brecher-junior-1226a9ba/)
-Email: jbjunioralemao@gmail.com
-Obrigado por visitar meu perfil! 🙌
+### 🚀 Interesses | Interests  
+- Inteligência Artificial (IA) & Machine Learning  
+- Cloud Computing (AWS, Azure, etc.)  
+- Python, SQL, Git  
+- Explorando SAP e integração de sistemas  
+
+---
+
+### 🤝 Vamos colaborar? | Let’s collaborate!  
+Gosto de aprender na prática e trocar ideias com outros devs. Se você trabalha com IA, dados ou cloud, me chama!
+
+I enjoy learning by doing and connecting with other devs. If you're into AI, data or cloud — let's connect!
+
+---
+
+📫 **Contato | Contact**  
+- [LinkedIn](https://www.linkedin.com/in/jair-brecher-junior-1226a9ba/)  
+- 📧 jbjunioralemao@gmail.com
+
+---
+
+🙌 Obrigado por visitar meu perfil!  
+🙌 Thanks for visiting my profile!
